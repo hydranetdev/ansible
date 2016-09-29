@@ -1,0 +1,16 @@
+muenchen:
+  short: "mu"
+  adserver:
+    - dmu03.rsint.net
+    - dmu02.rsint.net
+    - dmu01.rsint.net
+  dnsserver:
+    - 10.0.2.166
+    - 10.0.23.159
+    - 10.0.23.153
+  netmask: 255.255.255.0
+  gateway: 10.0.25.1
+  timezone: "Europe/Berlin"
+
+
+  
